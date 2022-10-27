@@ -35,7 +35,7 @@ public class LimitsTable {
 	 * Gets the maximum limit for a position
 	 * @param position describes the title of the manager
 	 * @param type 
-	 * @return 
+	 * @return the maximum allowed price for a element in a category and given position
 	 */
 	public static Long getMaximumAllowance(String position, Type type) {
 		Long result = 0L;
