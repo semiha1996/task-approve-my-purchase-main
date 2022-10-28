@@ -1,7 +1,5 @@
 package handlers;
 
-import common.Type;
-
 /**
  * //TODO - If needed, validate logic and if possible optimize code
  */

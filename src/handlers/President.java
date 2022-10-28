@@ -1,7 +1,5 @@
 package handlers;
 
-import common.Type;
-
 /**
  * //TODO - Implement approval implementation for President level
  */

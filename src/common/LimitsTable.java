@@ -22,7 +22,7 @@ public class LimitsTable {
 				Type.CLERICAL, 1500L,
 				Type.GADGETS, 2000L,
 				Type.GAMING, 4500L,
-				Type.PC, 6000L),
+				Type.PC, 6500L),
 		"President", Map.of(
 				Type.CONSUMABLES, 1000L,
 				Type.CLERICAL, 2000L,
